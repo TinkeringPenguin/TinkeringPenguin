@@ -8,7 +8,9 @@ You might know me from my [Spinning ASCII Donut in Python 🍩](https://www.yout
 ## Links
 
 You can check me out on [🐥 Twitter](https://twitter.com/PenguinTinkerer) 
+
 You can also go to [💻 my website](https://tinkeringpenguin.com/) 
+
 I also have a consulting company called [🐧 Antarctic Solutions](https://www.antarcticsolutions.ca/)
 
 ## About me
@@ -30,6 +32,6 @@ A penguin who likes to tinkering around with
 14. ⚙️ Automation
 15. 🧿 System design
 16. 🎡 Hardware (Soon)
-17. + more hopefully!
+17. \+ more hopefully!
 
 <!--- Before you say this list is too long, everything is interesting to me ok!  -->
