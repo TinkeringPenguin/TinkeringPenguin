@@ -29,9 +29,10 @@ A penguin who likes to tinkering around with
 11. ✒️ Design
 12. 🔉 Sound design (and some music stuff 🥺)
 13. 📱 Mobile
-14. ⚙️ Automation
-15. 🧿 System design
-16. 🎡 Hardware (Soon)
-17. \+ more hopefully!
+14. 🪲 Security
+15. ⚙️ Automation
+16. 🧿 System design
+17. 🎡 Hardware (Soon)
+18. \+ more hopefully!
 
 <!--- Before you say this list is too long, everything is interesting to me ok!  -->
